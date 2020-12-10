@@ -1,0 +1,54 @@
+body{
+    background-image: url("https://wallpaperaccess.com/full/3739446.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+#heading {
+    background-image: radial-gradient(circle, #d1cb6b, #ddbf69, #e6b36c, #eba872, #ec9e7a, #f3947d, #f98a84, #fc818f, #ff739f, #ff66b8, #ff5ed7, #fb5ffb);
+    width: 100%;
+    text-align: left;
+}
+
+#heading h3{
+    display: inline;
+}
+
+#heading button{
+    float: right;
+    border: 2px dotted yellow;
+}
+
+#big_image{
+    width: 100%;
+}
+
+#start , #status
+{
+    background-image: linear-gradient(to right top, #051937, #00304c, #00464c, #005938, #50671e);
+    color: white;
+    font-size: 20px;
+}
+
+h4{
+    background-image: linear-gradient(to top, #75d16b, #00d0a0, #00c8d3, #00bbf7, #00a8ff, #8a9dff, #cd8def, #fb7ecd, #ff87a4, #ffa677, #ffd057, #f2fb5f);
+    line-height: 2;
+    margin: 0px;
+    bottom: 0;
+}
+
+.modal-dialog{
+    width:90%;
+}
+
+.instruction_img{
+    display: inline-block;
+    width: 45%;
+}
+
+video{
+    background-image: url("game_console.png");
+    background-size: cover;
+    background-position: center;
+    padding: 25px;
+}
